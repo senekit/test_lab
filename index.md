@@ -3,7 +3,7 @@
 
 # senekit's Website
 
-An engaging 1-3 sentence description of your lab.
+This is a test project for our lab website.
 
 {% include section.html %}
 
