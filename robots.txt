@@ -1,0 +1,1 @@
+Sitemap: https://senekit.github.io/test_lab/sitemap.xml
