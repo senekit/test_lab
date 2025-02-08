@@ -5,6 +5,6 @@
 
   # senekit's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[senekit.github.io/test_lab](https://senekit.github.io/test_lab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
